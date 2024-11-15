@@ -1,9 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver import ActionChains
-from selenium.webdriver.common.actions.action_builder import ActionBuilder
-from selenium.webdriver.common.actions.mouse_button import MouseButton
-
 
 class CloudOperator():
     def __init__(self):
