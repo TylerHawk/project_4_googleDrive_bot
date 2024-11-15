@@ -6,8 +6,8 @@ Their solution, the associated Gmail account will stop receiving emails in a few
 This is not the first time, and I am sure this is not the last. 
 
 The project primary objective is to clean up the data delivered from Google. When Google sends
-packets containing my images, they send with it
-a JSON files with data for each image. For me this is clutter on my system that I will never clean up file by file.
+packets containing my images, 
+a JSON file, containing data for each image, is also sent. For me these JSON files are clutter on my system that I will never clean up manually.
 
 ### Three objectives
 1. Use Selenium to navigate my account and manage the download process.
